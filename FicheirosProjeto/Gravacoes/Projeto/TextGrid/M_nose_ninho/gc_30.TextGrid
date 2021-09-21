@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.355102040816327 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "annotations" 
+        xmin = 0 
+        xmax = 5.355102040816327 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.129006070273589 
+            text = "" 
+        intervals [2]:
+            xmin = 1.129006070273589 
+            xmax = 1.3394131072859388 
+            text = "o~" 
+        intervals [3]:
+            xmin = 1.3394131072859388 
+            xmax = 1.4297202735257915 
+            text = "d@ " 
+        intervals [4]:
+            xmin = 1.4297202735257915 
+            xmax = 1.6898598829228788 
+            text = "ew " 
+        intervals [5]:
+            xmin = 1.6898598829228788 
+            xmax = 2.0838948795096432 
+            text = "bri~" 
+        intervals [6]:
+            xmin = 2.0838948795096432 
+            xmax = 2.330561000514305 
+            text = "ku " 
+        intervals [7]:
+            xmin = 2.330561000514305 
+            xmax = 2.4491540577394475 
+            text = "a " 
+        intervals [8]:
+            xmin = 2.4491540577394475 
+            xmax = 2.579223862437991 
+            text = "u~ " 
+        intervals [9]:
+            xmin = 2.579223862437991 
+            xmax = 2.7207704146099356 
+            text = "ni" 
+        intervals [10]:
+            xmin = 2.7207704146099356 
+            xmax = 2.832710733995216 
+            text = "Ju " 
+        intervals [11]:
+            xmin = 2.832710733995216 
+            xmax = 2.916873548800156 
+            text = "d@ " 
+        intervals [12]:
+            xmin = 2.916873548800156 
+            xmax = 3.0623064695961744 
+            text = "6~" 
+        intervals [13]:
+            xmin = 3.0623064695961744 
+            xmax = 3.184725109312451 
+            text = "du" 
+        intervals [14]:
+            xmin = 3.184725109312451 
+            xmax = 3.372178651377999 
+            text = "ri" 
+        intervals [15]:
+            xmin = 3.372178651377999 
+            xmax = 3.5940624358637496 
+            text = "J6S " 
+        intervals [16]:
+            xmin = 3.5940624358637496 
+            xmax = 3.7606501007881477 
+            text = "e~" 
+        intervals [17]:
+            xmin = 3.7606501007881477 
+            xmax = 4.097301360007908 
+            text = "kuStadu " 
+        intervals [18]:
+            xmin = 4.097301360007908 
+            xmax = 4.34213863944046 
+            text = "aw " 
+        intervals [19]:
+            xmin = 4.34213863944046 
+            xmax = 4.479859609121271 
+            text = "mu" 
+        intervals [20]:
+            xmin = 4.479859609121271 
+            xmax = 4.637524450032294 
+            text = "ru" 
+        intervals [21]:
+            xmin = 4.637524450032294 
+            xmax = 5.355102040816327 
+            text = "" 
